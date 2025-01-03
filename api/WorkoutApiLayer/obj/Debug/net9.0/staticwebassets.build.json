@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o2hxwmrkplHRqNQkkhsGz5TqIU/EXustmIyD4h8DuOM=",
+  "Source": "WorkoutApiLayer",
+  "BasePath": "_content/WorkoutApiLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
